@@ -1,0 +1,36 @@
+
+body{background-color: black;
+}
+div{text-align: center;
+    background-color: white;
+    margin: 40px 300px 0px 300px;
+    height: 1000px;
+}
+.infos{ text-align: left;
+margin-left: 15px; 
+}   
+div .date{
+      color: blue;
+      padding: 20px 15px 0px 500px;
+}
+
+.contenu { color: blue;
+	       font-size: 25px;
+         text-align: justify;
+         margin: 0px 15px 0px 15px;
+}
+.mr {font-size: 25px;
+         text-align: center;
+         color: blue;
+}
+
+.contenus { color: blue;
+	       font-size: 25px;
+         text-align: right;
+}
+
+p img{float: right;
+         	margin-right: 15px;
+         	width: 150px; height: 150px;
+            margin-top: -50px;
+}
