@@ -1,43 +1,41 @@
-
-body{
-    background-color: black;
+body {
+	padding: 60px;
+	margin: 270px;
+	box-shadow: 2px 2px 3px 5px black;
 }
-div{
-  text-align: center;
-  background-color: white;
-  margin: 40px 300px 0px 300px;
-  height: 1000px;
-}
-.infos{ 
-    text-align: left;
-    margin-left: 15px; 
-}   
-div .date{
-      color: blue;
-      padding: 20px 15px 0px 500px;
+ .ab{text-decoration: underline;
 }
 
-.contenu { 
-        color: blue;
-	    font-size: 25px;
-        text-align: justify;
-        margin: 0px 15px 0px 15px;
-}
-.mr {
-    font-size: 25px;
-    text-align: center;
-    color: blue;
+.contenu{
+	border: 1px solid black;
 }
 
-.contenus {
-        color: blue;
-	    font-size: 25px;
-        text-align: right;
+.p1{
+	padding-top: -20;
+	line-height: 20px;
+}
+main, .last,header{
+	text-align: justify;
+	font-size: 20px;
+	margin: 0 15px 0 15px;
+}
+.info {line-height: 20px;
+	text-align: right;
+	font-size: 20px;
+	margin: 0 15px 80px 15px;
+
+}
+h4 {
+	text-decoration: underline;
+	text-align: center;
+	font-size: 30px;
+}
+a {
+	text-decoration: none;
+	color: #000000;
 }
 
-p img{
-    float: right;
-    margin-right: 15px;
-    width: 150px; height: 150px;
-    margin-top: -50px;
-}
+p img{float: right;
+         	margin-right: 15px;
+         	width: 150px; height: 90px;
+            margin-top: -13px;
